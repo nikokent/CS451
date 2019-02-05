@@ -1,0 +1,15 @@
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.exe.config
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.exe
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.pdb
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csprojAssemblyReference.cache
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\MainWindow.g.cs
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\App.g.cs
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App_MarkupCompile.cache
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App_MarkupCompile.lref
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\MainWindow.baml
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.g.resources
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.Properties.Resources.resources
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csproj.GenerateResource.cache
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.exe
+D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.pdb
