@@ -1,0 +1,11 @@
+USEFUL QUERIES:
+***
+will return the states that are present in the data.
+***
+SELECT state FROM business GROUP BY state;
+
+***
+will return the cities that are present given an existing state.
+***
+SELECT city FROM business WHERE state='<STATE NEEDED>' GROUP BY city;
+

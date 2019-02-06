@@ -1,4 +1,8 @@
+#
+#   Parses data to the file and performs query to pgsql db
+#
 import json
+import csv
 from pprint import pprint
 import psycopg2
 
@@ -11,20 +15,13 @@ cur = conn.cursor()
 
 items = []
 
-with open("yelp_data/yelp_business.JSON") as f:
-    for line in f:
-        data = json.loads(line)
-        items.append(data)
-
-CSVFile = open("yelp_business.csv", "w+")
+with open("milestone1DB.csv", "r") as f:
+    data = csv.reader(f)
+    items = list(data)
 
 for i in range(len(items)):
-    line = str(i) + "," + items[i]["name"] + "," + items[i]["state"] + "," + items[i]["city"] + "\r\n"
-    CSVFile.write(line)
+    line = str(i) + "," + items[i][0] + "," + items[i][1] + "," + items[i][2] + "\r\n"
     query =  "INSERT INTO business (id, businessName, state, city) VALUES (%s, %s, %s, %s);"
-    querydata = (str(i), items[i]["name"], items[i]["state"], items[i]["city"])
+    querydata = (str(i), items[i][0], items[i][1], items[i][2])
     cur.execute(query, querydata)
     conn.commit()
-
-
-CSVFile.close()
