@@ -7,7 +7,7 @@ from pprint import pprint
 import psycopg2
 
 try:
-    conn = psycopg2.connect(database = "Milestone1DB", user = "niko", password = "kent", host = "localhost", port = "6969")
+    conn = psycopg2.connect(database = "Milestone1DB", user = "postgres", password = "Cruzazul7", host = "localhost", port = "5432")
 except:
     print("I am unable to connect to the database")
 

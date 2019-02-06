@@ -9,12 +9,12 @@
     <Grid>
         <GroupBox x:Name="groupBox" Header="State/City" HorizontalAlignment="Left" Height="156" Margin="87,34,0,0" VerticalAlignment="Top" Width="413" FontSize="14"/>
 
-        <ComboBox x:Name="stateCombo" HorizontalAlignment="Left" Margin="260,70,0,0" VerticalAlignment="Top" Width="153" Height="30" FontSize="14"/>
+        <ComboBox x:Name="stateCombo" HorizontalAlignment="Left" Margin="260,70,0,0" VerticalAlignment="Top" Width="153" Height="30" FontSize="14" SelectionChanged="stateCombo_SelectionChanged"/>
         <Label x:Name="stateLabel" Content="State" HorizontalAlignment="Left" Margin="144,70,0,0" VerticalAlignment="Top" Height="30" Width="52" FontSize="16" FontFamily="Calibri" />
         <Label x:Name="cityLabel" Content="City" HorizontalAlignment="Left" Margin="144,128,0,0" VerticalAlignment="Top" Height="30" Width="52" FontSize="16" FontFamily="Calibri" />
-        <ComboBox x:Name="cityCombo" HorizontalAlignment="Left" Margin="260,128,0,0" VerticalAlignment="Top" Width="153" Height="30" FontSize="14"/>
+        <ComboBox x:Name="cityCombo" HorizontalAlignment="Left" Margin="260,128,0,0" VerticalAlignment="Top" Width="153" Height="30" FontSize="14" SelectionChanged="cityCombo_SelectionChanged"/>
         <GroupBox x:Name="groupBox_Copy" Header="Businesses" HorizontalAlignment="Left" Height="299" Margin="87,225,0,0" VerticalAlignment="Top" Width="413" FontSize="14">
-            <DataGrid x:Name="businessGrid" HorizontalAlignment="Left" Height="234" Margin="40,22,0,0" VerticalAlignment="Top" Width="321"/>
+            <DataGrid x:Name="businessGrid" HorizontalAlignment="Left" Height="255" Margin="10,10,10,10" VerticalAlignment="Top" Width="360"/>
         </GroupBox>
 
     </Grid>

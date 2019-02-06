@@ -13,3 +13,19 @@ D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\
 D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csproj.CoreCompileInputs.cache
 D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.exe
 D:\Documents\GitHub\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.pdb
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.exe.config
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.exe
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.pdb
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csprojResolveAssemblyReference.cache
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\MainWindow.g.cs
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\App.g.cs
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App_MarkupCompile.cache
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App_MarkupCompile.lref
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.exe
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Yelp_Dataset_App.pdb
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Npgsql.dll
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\bin\Debug\Npgsql.xml
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\MainWindow.baml
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.g.resources
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.Properties.Resources.resources
+C:\Users\Afguz\OneDrive\Documents\Spring '19 Classes\CptS 451\CS451\Milestone1\Frontend\Yelp_Dataset_App\Yelp_Dataset_App\obj\Debug\Yelp_Dataset_App.csproj.GenerateResource.Cache
